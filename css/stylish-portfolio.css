@@ -37,6 +37,8 @@ body {
     width: 400px;
     background-color: rgba(0,0,0,0.4);
     color: white;
+    font-size: 3;
+
 
 }
 /* Custom Button Styles */
@@ -203,7 +205,7 @@ opacity:;
 .callout {
     display: table;
     width: 100%;
-    height: 400px;
+    height: 100%;
     color: #fff;
     background: url(../img/callout.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
