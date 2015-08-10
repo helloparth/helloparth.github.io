@@ -1,0 +1,136 @@
+html,
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.album_covers {
+    display: table;
+    position: relative;
+    align-content: center; 
+    width: 100%;
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    padding: 50px 0;
+    padding-bottom: 50px;
+    background-size: 100% 100%;
+}
+#photo_header {
+    display: table;
+    position: relative;
+    align-content: center; 
+    background: url(../img/pcamera.png) no-repeat center center scroll;
+   /* -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;*/
+    width: 100%;
+    height: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#iceland{
+background: url(../img/iceland.png) no-repeat center center scroll;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
+}
+
+#berlin{
+background: url(../img/berlin.png) no-repeat center center scroll;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
+}
+
+#istanbul{
+background: url(../img/istanbul2.png) no-repeat center center scroll;
+
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
+}
+
+#kefalonia{
+background: url(../img/kefalonia.png) no-repeat center center scroll;
+
+/*-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;*/
+background-size: 100% 100%;
+}
+#santorini{
+background: url(../img/santorini.png) no-repeat center center scroll;
+background-size: 100% 100%;
+}
+#athens{
+background: url(../img/athens.png) no-repeat center center scroll;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
+background-size: 100% 100%;
+}
+#athens{
+background: url(../img/athens.png) no-repeat center center scroll;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
+
+}#lake_geneva{
+background: url(../img/lake_geneva.png) no-repeat center center scroll;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
+
+}#lauterbrunnen_valley{
+background: url(../img/lauterbrunnen_valley.png) no-repeat center center scroll;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
+
+}#brussels{
+background: url(../img/brussels.png) no-repeat center center scroll;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
+}#amsterdam{
+background: url(../img/amsterdam.png) no-repeat center center scroll;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
+
+}#dublin{
+background: url(../img/dublin.png) no-repeat center center scroll;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
+
+}
+#northern_ireland{
+background: url(../img/northern_ireland.png) no-repeat center center scroll;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
+
+}
