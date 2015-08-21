@@ -14,6 +14,7 @@ body {
 
 body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    overflow-x: hidden;
 }
 
 .text-vertical-center {
@@ -199,6 +200,11 @@ opacity:;
 .portfolio-symbol{
  background-color: #ff8
  color: #fff;
+}
+
+.icon_circle{
+color: white; 
+
 }
 /* Callout */
 
