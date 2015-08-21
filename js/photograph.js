@@ -12,7 +12,7 @@ $(document).ready(function() {
 
 //         });
 
-$('body').panelSnap();
+//$('body').panelSnap();
 
 var banner_height = $('.embed-container').css("height");
 console.log("banner height is " + banner_height);

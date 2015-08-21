@@ -12,6 +12,7 @@ body {
     scroll-behavior: smooth;
     scroll-snap-destination: 50% 50%;
 }
+
 #photo_header {
     display: table;
     position: relative;
